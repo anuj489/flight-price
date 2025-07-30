@@ -127,13 +127,6 @@ The insights and models from this project can be used by:
 **Anuj Agarwal**  
 *Data Analyst Intern @ Visao.io*  
 📍 Noida, Uttar Pradesh  
-📧 [YourEmail@example.com]
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
